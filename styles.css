@@ -13,6 +13,18 @@ body {
   width: 30em;
   margin: 10px 0;
 }
+p1 {
+  color: yellow;
+}
+p2 {
+  color: orange;
+}
+p3 {
+  color: teal;
+}
+p4 {
+  color: purple;
+}
 
 #box1 {
   background-color: rgb(86, 48, 255);
